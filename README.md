@@ -14,5 +14,5 @@
 
 ### Setup
 
-Las instrucciones de uso se encuentran en el siguiente [archivo](docs/setup.md). 
+Andrés Angel Carvajal. 
 
